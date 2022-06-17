@@ -1,0 +1,32 @@
+{
+  "name": "pixel-prints",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@web3-onboard/core": "^2.2.12",
+    "@web3-onboard/injected-wallets": "^2.0.9",
+    "@web3-onboard/react": "^2.1.8",
+    "ethers": "^5.6.8",
+    "next": "12.1.6",
+    "react": "^18.2.0",
+    "react-dom": "18.2.0",
+    "reactg": "^0.0.1"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "autoprefixer": "^10.4.7",
+    "erc721a": "^4.1.0",
+    "eslint": "8.17.0",
+    "eslint-config-next": "12.1.6",
+    "hardhat": "^2.9.9",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.3"
+  }
+}
