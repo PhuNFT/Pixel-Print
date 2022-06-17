@@ -5,7 +5,7 @@ import { useState, useEffect } from "react";
 import { ethers, BigNumber } from "ethers";
 import mintAbi from "./utils/mintAbi.json"
 
-const mintAddress = "0x429b86de53d47F7aaB1430c4D32B3d4C084a9d04";
+const mintAddress = "0x7f3211941d3b7E7aaa565075b64fDE4603DfCB72";
 
 function App() {
   // connect wallet
